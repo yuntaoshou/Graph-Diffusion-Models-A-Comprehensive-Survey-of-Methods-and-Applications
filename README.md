@@ -130,3 +130,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | A Survey on Temporal Graph Representation Learning and Generative Modeling | [[paper]](https://doi.org/10.48550/arXiv.2208.12126) | - |
 | Human motion modeling with deep learning: A survey | [[paper]](https://doi.org/10.1016/j.aiopen.2021.12.002) | - |
 | MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design | [[paper]](https://doi.org/10.48550/arXiv.2203.14500) | - |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&type=Date)](https://star-history.com/#star-history/star-history&yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&Date)
