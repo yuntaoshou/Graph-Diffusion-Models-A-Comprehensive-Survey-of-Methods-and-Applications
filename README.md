@@ -133,4 +133,4 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&type=Date)](https://star-history.com/#star-history/star-history&yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&type=Date)](https://star-history.com/#yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications&Date)
