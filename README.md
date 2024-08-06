@@ -45,7 +45,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | JODO | [[paper]](https://doi.org/10.48550/arXiv.2305.12347) | [[code]](https://github.com/GRAPH-0/JODO)| SILVR | [[paper]](https://doi.org/10.48550/arXiv.2304.10905) | - |
 | HierDiff (ICML-23) | [[paper]](https://proceedings.mlr.press/v202/qiang23a.html) | [[code]](https://github.com/qiangbo1222/HierDiff) | - | - | - |
 | BIMODAL | [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943) | [[code]](https://github.com/ETHmodlab/BIMODAL) |  RationaleRL (ICML2020) | [[paper]](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf) | [[code]](https://github.com/wengong-jin/multiobj-rationale) |
-| GEOLDM (ICML-2023) | [[paper]](https://proceedings.mlr.press/v202/xu23n/xu23n.pdf)| [[code]](https://github.com/MinkaiXu/GeoLDM) |MGM [[paper]](https://www.nature.com/articles/s41467-021-23415-2.pdf)| -|
+| GEOLDM (ICML-2023) | [[paper]](https://proceedings.mlr.press/v202/xu23n/xu23n.pdf)| [[code]](https://github.com/MinkaiXu/GeoLDM) | MGM | [[paper]](https://www.nature.com/articles/s41467-021-23415-2.pdf)| -|
+| LFM AISTATS-2020| [[paper]](https://proceedings.mlr.press/v108/podda20a/podda20a.pdf) | [[code]](https://github.com/marcopodda/fragment-based-dgm) | RetMol | [[paper]](https://arxiv.org/pdf/2208.11126) | [[code]](https://github.com/NVlabs/RetMol) |
 
 ### Conformation design
 | Methods | Paper | Code | Methods | Paper | Code |
