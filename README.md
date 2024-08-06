@@ -86,6 +86,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | PROTSEED (ICLR-23) | [[paper]](https://openreview.net/forum?id=pRCMXcfdihq) | - | ProteinSGM | [[paper]](https://www.biorxiv.org/content/early/2023/02/04/2022.07.13.499967) | [[code]](https://gitlab.com/mjslee0921/proteinsgm) |
 | SMCDiff (ICLR-23) | [[paper]](https://arxiv.org/abs/2206.04119) | [[code]](https://github.com/blt2114/ProtDiff_SMCDiff) | GraDe-IF | [[paper]](https://doi.org/10.48550/arXiv.2306.16819) | - |
 | EigenFold | [[paper]](https://openreview.net/forum?id=BgbRVzfQqFp) | [[code]](https://github.com/bjing2016/EigenFold) | - | - | - |
+| CGM (NeurIPS-19) | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/f3a4ff4839c56a5f460c88cce3666a2b-Paper.pdf) | [[code]](https://github.com/jingraham/neurips19-graph-protein-design) | SeqDesign | [[paper]](https://www.nature.com/articles/s41467-021-22732-w) | [[code]](https://github.com/debbiemarkslab/SeqDesign) |
+| Fold2Seq (ICML-21) | [[paper]](https://proceedings.mlr.press/v139/cao21a/cao21a.pdf) | [[code]](https://github.com/IBM/fold2seq) | EvoDiff | [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1.full.pdf) | - |
+| GVP （ICLR-21） | [[paper]](https://openreview.net/pdf?id=1YLJDvSx6J4) | [[code]](https://github.com/drorlab/gvp) | ESM (NeurIPS) | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf) | - |
+
 ## Motion generation
 
 ### Motion synthesis
