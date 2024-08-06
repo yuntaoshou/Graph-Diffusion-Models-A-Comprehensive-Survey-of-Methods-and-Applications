@@ -1,5 +1,14 @@
+[stars-img]: https://img.shields.io/github/stars/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=yellow
+[stars-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/stargazers
+[fork-img]: https://img.shields.io/github/forks/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=lightblue&label=fork
+[fork-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/network/members
+[AKGR-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications
+
 # Graph Diffusion Models: A Comprehensive Survey of Methods and Applications
 This is the summation of all the methods, datasets, and other survey mentioned in our survey 'Graph Diffusion Models: A Comprehensive Survey of Methods and Applications' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
 
 <div  align="center"> 
   <img src="https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/blob/main/fig/methods.jpg" width=100% />
