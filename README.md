@@ -129,16 +129,16 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Datasets
 
-| Dataset         | Dimensionality | Category                 | No.of Graphs (G) | No. of Nodes (N) |
-|-----------------|----------------|--------------------------|------------------|------------------|
-| Community-small | 2D             | Social                   | 100              | 11 < N < 20      |
-| Ego-small       | 2D             | Social                   | 200              | 3 < N < 18       |
-| Grid            | 2D             | Grid                     | 100              | N <= 400         |
-| QM9             | 3D             | Bioinformatics/Molecular | 130,831          | 3 < N < 29       |
-| ZINC250K        | 3D             | Bioinformatics/Molecular | 249,456          | 6 < N < 38       |
-| Enzymes         | 3D             | Bioinformatics/Protein   | 600              | 9 < N < 125      |
-| SBM-27          | 2D             | Social                   | 200              | 24 < N < 27      |
-| Planar-60       | 2D             | Social                   | 200              | N = 60           |
+|     Dataset     | Dimensionality |         Category         | No.of Graphs (G) | No. of Nodes (N) |
+|:---------------:|:--------------:|:------------------------:|:----------------:|:----------------:|
+| Community-small |       2D       |          Social          |        100       |    11 < N < 20   |
+|    Ego-small    |       2D       |          Social          |        200       |    3 < N < 18    |
+|       Grid      |       2D       |           Grid           |        100       |     N <= 400     |
+|       QM9       |       3D       | Bioinformatics/Molecular |      130,831     |    3 < N < 29    |
+|     ZINC250K    |       3D       | Bioinformatics/Molecular |      249,456     |    6 < N < 38    |
+|     Enzymes     |       3D       |  Bioinformatics/Protein  |        600       |    9 < N < 125   |
+|      SBM-27     |       2D       |          Social          |        200       |    24 < N < 27   |
+|    Planar-60    |       2D       |          Social          |        200       |      N = 60      |
 
 ### Molecule generation
 
