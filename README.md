@@ -44,6 +44,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | MDM (AAAI-23) | [[paper]](https://arxiv.org/abs/2209.05710) | [[code]](https://github.com/tencent-ailab/MDM) | DiffLinker | [[paper]](https://openreview.net/forum?id=viZ4G1WZxh) | [[code]](https://github.com/igashov/DiffLinker) |
 | JODO | [[paper]](https://doi.org/10.48550/arXiv.2305.12347) | [[code]](https://github.com/GRAPH-0/JODO)| SILVR | [[paper]](https://doi.org/10.48550/arXiv.2304.10905) | - |
 | HierDiff (ICML-23) | [[paper]](https://proceedings.mlr.press/v202/qiang23a.html) | [[code]](https://github.com/qiangbo1222/HierDiff) | - | - | - |
+| BIMODAL | [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943) [[code]]([[[code]]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00943)) |  RationaleRL (ICML2020) | [[paper]](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf) | [[code]](https://github.com/wengong-jin/multiobj-rationale)
 
 ### Conformation design
 | Methods | Paper | Code | Methods | Paper | Code |
