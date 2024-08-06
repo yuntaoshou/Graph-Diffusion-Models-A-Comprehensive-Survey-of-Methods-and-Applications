@@ -53,7 +53,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | LFM AISTATS-20| [[paper]](https://proceedings.mlr.press/v108/podda20a/podda20a.pdf) | [[code]](https://github.com/marcopodda/fragment-based-dgm) | RetMol | [[paper]](https://arxiv.org/pdf/2208.11126) | [[code]](https://github.com/NVlabs/RetMol) |
 | MolGPT | [[paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c7588e469df48597f456ae/original/lig-gpt-molecular-generation-using-a-transformer-decoder-model.pdf) | - | Bridge (NeurIPS-2022) | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/eccc6e11878857e87ec7dd109eaa9eeb-Paper-Conference.pdf) | - |
 | Bresson et al. | [[paper]](https://arxiv.org/pdf/1906.03412) | - | FLAG (ICLR-23) | [[paper]](https://openreview.net/pdf?id=Rq13idF0F73) | [[code]](https://github.com/zaixizhang/FLAG) |
-| LIMO | [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9527083/) | [[code]](https://github.com/Rose-STL-Lab/LIMO) |
+| LIMO | [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9527083/) | [[code]](https://github.com/Rose-STL-Lab/LIMO) | D3FG NeurIPS-24 | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6cdd4ce9330025967dd1ed0bed3010f5-Paper-Conference.pdf) | [[code]](https://github.com/EDAPINENUT/CBGBench/tree/master) |
 
 ### Conformation design
 | Methods | Paper | Code | Methods | Paper | Code |
