@@ -139,6 +139,9 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 |     Enzymes     |       3D       |  Bioinformatics/Protein  |        600       |    9 < N < 125   |
 |      SBM-27     |       2D       |          Social          |        200       |    24 < N < 27   |
 |    Planar-60    |       2D       |          Social          |        200       |      N = 60      |
+|    AIDS         |       2D       | Bioinformatics/Molecular |        2000      |         -        |
+|   Synthie       |       2D       |          Social          |        300       |      N = 100     |
+|    Proteins     |       3D       | Bioinformatics/Protein   |        1113      |      N = 39.1    |
 
 ### Molecule generation
 
