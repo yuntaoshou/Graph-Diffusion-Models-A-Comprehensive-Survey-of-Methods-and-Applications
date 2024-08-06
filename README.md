@@ -14,6 +14,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
   <img src="https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/blob/main/fig/methods.jpg" width=100% />
 </div>
 
+<div  align="center"> 
+  <img src="https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/blob/main/fig/diffusionshuoming.png" width=100% />
+</div>
+
 ## Contents
 - [Diffusion-based Graph Generative Methods](#diffusion-based-grap-generative-methods)
   - [Contents](#contents)
