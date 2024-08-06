@@ -15,10 +15,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 </div>
 
 ## Contents
-- [Diffusion-based Grap Generative Methods](#diffusion-based-grap-generative-methods)
+- [Diffusion-based Graph Generative Methods](#diffusion-based-grap-generative-methods)
   - [Contents](#contents)
   - [Molecule generation](#molecule-generation)
-    - [De novo molecule design](#de-novo-molecule-design)
+    - [Molecule design](#de-novo-molecule-design)
     - [Conformation design](#conformation-design)
     - [De novo ligand design](#de-novo-ligand-design)
     - [Ligand docking](#ligand-docking)
