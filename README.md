@@ -144,8 +144,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | Human motion modeling with deep learning: A survey | [[paper]](https://doi.org/10.1016/j.aiopen.2021.12.002) | - |
 | MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design | [[paper]](https://doi.org/10.48550/arXiv.2203.14500) | - |
 
-## Acknowledgement
-Thanks to [Diffusion-basedGraph-Generative-Methods](Diffusion-basedGraph-Generative-Methods).
+## Acknowledgement :heart:
+Thanks to [Diffusion-based-Graph-Generative-Methods](Diffusion-basedGraph-Generative-Methods).
 
 ## Star History
 
