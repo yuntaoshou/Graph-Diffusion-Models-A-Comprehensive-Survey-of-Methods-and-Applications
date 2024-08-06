@@ -145,7 +145,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design | [[paper]](https://doi.org/10.48550/arXiv.2203.14500) | - |
 
 ## Acknowledgement :heart:
-Thanks to [Diffusion-based-Graph-Generative-Methods](Diffusion-basedGraph-Generative-Methods).
+Thanks to [Diffusion-based-Graph-Generative-Methods](https://github.com/zhejiangzhuque/Diffusion-based-Graph-Generative-Methods).
 
 ## Star History
 
