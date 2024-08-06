@@ -150,7 +150,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Other surveys
 | Paper | Url | Source | 
-| :---- | :----: | :----: |
+| :---- | :----: | :----: | [[paper]](https://arxiv.org/abs/2401.15617) | - |
+| Diffusion-based Graph Generative Methods | 
 | Diffusion Models: A Comprehensive Survey of Methods and Applications | [[paper]](https://doi.org/10.48550/arXiv.2209.00796) | [[source]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) |
 | A Survey on Generative Diffusion Model | [[paper]](https://doi.org/10.48550/arXiv.2209.02646) | [[source]](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) |
 | Generative Diffusion Models on Graphs: Methods and Applications | [[paper]](https://doi.org/10.48550/arXiv.2302.02591) | - |
