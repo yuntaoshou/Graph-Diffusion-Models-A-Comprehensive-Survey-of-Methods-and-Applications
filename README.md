@@ -131,8 +131,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | Lee et al. | [[paper]](https://doi.org/10.1080/15376494.2023.2198528) | - | - | SaGess | [[paper]](https://doi.org/10.48550/arXiv.2306.16827) | - | - |
 | SLD | [[paepr]](https://openreview.net/forum?id=AykEgQNPJEK) | - | - | Diff-POI | [[paper]](https://doi.org/10.48550/arXiv.2304.07041) | - | - |
 | Brain Diffuser | [[paper]](https://doi.org/10.48550/arXiv.2303.06410) | - | - | Lu et al. | [[paper]](https://doi.org/10.48550/arXiv.2304.05137) | - | - |
-|  GBD | [[paper]](https://arxiv.org/pdf/2406.09357) | https://github.com/YH-UtMSB/Graph_Beta_Diffusion | - | DiffGraph | [[paper]](https://doi.org/10.48550/arXiv.2304.05137) | https://github.com/HKUDS/DiffGraph | - |
-| ProGDM | [[paper]](https://dl.acm.org/doi/10.1145/3627673.3679708) | https://github.com/ProGDM | - | R-ode | [[paper]](https://arxiv.org/pdf/2405.17282) | - | - |
+|  GBD | [[paper]](https://arxiv.org/pdf/2406.09357) | [[code]](https://github.com/YH-UtMSB/Graph_Beta_Diffusion) | - | DiffGraph | [[paper]](https://doi.org/10.48550/arXiv.2304.05137) | [[code]](https://github.com/HKUDS/DiffGraph) | - |
+| ProGDM | [[paper]](https://dl.acm.org/doi/10.1145/3627673.3679708) | [[code]](https://github.com/ProGDM) | - | R-ode | [[paper]](https://arxiv.org/pdf/2405.17282) | - | - |
 
 ## Datasets
 
